@@ -1,1 +1,1 @@
-random python scripts i did while learning it
+random c scripts i did while learning it
